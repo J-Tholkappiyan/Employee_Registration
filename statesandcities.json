@@ -1,0 +1,55 @@
+{
+    "India": {
+        "Andaman and Nicobar Islands": [
+            "Port Blair"
+        ],
+        "Andhra Pradesh": [
+            "Guntur",
+            "Nellore",
+            "New",
+            "Vijayawada",
+            "Visakhapatnam"
+        ],
+        "Tamil Nadu": [
+            "Chennai",
+            "Coimbatore",
+            "Madurai",
+            "Kumbakonam"
+        ],
+        "Kerala": [
+            "Kochi",
+            "Thiruvananthapuram",
+            "Kozhikode"
+        ]
+    },
+    "United States": {
+        "California": [
+            "Los Angeles",
+            "San Francisco",
+            "San Diego"
+        ],
+        "New York": [
+            "New York City",
+            "Buffalo",
+            "Rochester"
+        ],
+        "Nope": [
+            "Nope"
+        ]
+    },
+    "Canada": {
+        "Ontario": [
+            "Toronto",
+            "Ottawa"
+        ],
+        "Quebec": [
+            "Montreal",
+            "Quebec City"
+        ]
+    },
+    "New": {
+        "New": [
+            "New"
+        ]
+    }
+}

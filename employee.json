@@ -1,0 +1,53 @@
+[
+    {
+        "empid": 3001,
+        "ename": "Tholkappiyan ",
+        "lname": "J",
+        "mobileno": "6380161503",
+        "email": "jtkappiyan2k23@gmail.com",
+        "aadhar": "238180531816",
+        "pincode": "612001",
+        "address": "",
+        "country": "New",
+        "state": "New",
+        "city": "New",
+        "gender": "Male",
+        "dob": "16/06/2003",
+        "religion": "Hindu",
+        "designation": "Web Developer"
+    },
+    {
+        "empid": 3002,
+        "ename": "Ilayaraja",
+        "lname": "R",
+        "mobileno": "6380161503",
+        "email": "226058029@sastra.ac.in",
+        "aadhar": "675667676879",
+        "pincode": "786786",
+        "address": "",
+        "country": "United States",
+        "state": "Nope",
+        "city": "Nope",
+        "gender": "",
+        "dob": "",
+        "religion": "Hindu",
+        "designation": "HR"
+    },
+    {
+        "empid": 3003,
+        "ename": "Jeeva",
+        "lname": "R",
+        "mobileno": "9894292498",
+        "email": "224172062@sastra.ac.in",
+        "aadhar": "919899089890",
+        "pincode": "098890",
+        "address": "",
+        "country": "India",
+        "state": "Andaman and Nicobar Islands",
+        "city": "Port Blair",
+        "gender": "Male",
+        "dob": "01/06/1972",
+        "religion": "Hindu",
+        "designation": "Finance"
+    }
+]
